@@ -1,5 +1,7 @@
 # container-app
 
+A simple Nuxtjs App
+
 ## Build Setup
 
 ```bash
